@@ -1,6 +1,6 @@
 import 'package:contador/presentation/screens/counter/counter_functions_screen.dart';
 import 'package:flutter/material.dart';
-import 'package:contador/presentation/screens/counter/counter_screen.dart';
+//import 'package:contador/presentation/screens/counter/counter_screen.dart';
 
 void main() {
   runApp(const MyApp());
